@@ -1,0 +1,13 @@
+
+transaction_id,transaction_date,department,vendor,amount,currency,status
+TXN001,2026-10-01,Finance,ABC Supplies,12500,INR,Approved
+TXN002,2026-10-02,finance,Global Services,25000,INR,Approved
+TXN003,2026-10-02,IT,Tech Solutions,45000,INR,Pending
+TXN004,2026-10-03,Procurement,Office World,8500,INR,Approved
+TXN005,2026-10-04,Finance,ABC Supplies,12500,INR,Approved
+TXN005,2026-10-04,Finance,ABC Supplies,12500,INR,Approved
+TXN006,2026-10-05,IT,,18000,INR,Pending
+TXN007,2026-10-06,HR,People First,,INR,Approved
+TXN008,2026-10-07,Procurement,Office World,-2500,INR,Rejected
+TXN009,2026-10-08,Finance,Global Services,32000,INR,Approved
+TXN010,2026-10-09,IT,Tech Solutions,56000,INR,Approved
